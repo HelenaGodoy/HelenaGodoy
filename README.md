@@ -27,7 +27,7 @@
   <img align="center" alt="Helena-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
-  ##
+  ###
  
 <div> 
    <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -37,3 +37,15 @@
   ![Snake animation](https://github.com/HelenaGodoy/HelenaGodoy/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+###
+
+<h5 align="center">
+   <i>⚡️“Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir.” (Steve Jobs)⚡️</i>
+  </h5>
+  
+###
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
