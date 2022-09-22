@@ -2,8 +2,8 @@
 
 
 - 🌱 Estou cursando Sistema de Informação;
-- 🤔Procuro ajudar com dicas para projeto e estudos;
-- 📚Estudo em linguagem de programação JavaScript e Phyton;
+- 🤔Procuro ajuda com dicas para projeto e estudos;
+- 📚Estudo em andamento em linguagem de programação JavaScript e Phyton;
 - 💡Ideias e dicas de estudos são bem-vindas;
 - 🤩 Foco em Front-end;
 - 💬Pergunte-me sobre programação;
