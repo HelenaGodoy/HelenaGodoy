@@ -9,7 +9,7 @@
 - 💬Pergunte-me sobre programação;
 - 📫Como chegar até mim: (11) 98164-2276(Whatsapp).
 - 💭Nunca devemos desistir dos nosso sonhos!
--->
+
 
 
 <div align="center">
