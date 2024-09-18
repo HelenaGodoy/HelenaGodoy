@@ -3,9 +3,9 @@
 
 - 🌱 Estou cursando Sistema de Informação;
 - 🤔Procuro ajuda com dicas para projeto e estudos;
-- 📚Estudo em andamento em linguagem de programação JavaScript e Phyton;
+- 📚Estudo em andamento em linguagem de programação JavaScript e Phyton e SQL;
 - 💡Ideias e dicas de estudos são bem-vindas;
-- 🤩 Foco em Front-end;
+- 🤩 Foco em Analise de Dados;
 - 💬Pergunte-me sobre programação;
 - 📫Como chegar até mim: (11) 98164-2276(Whatsapp).
 - 💭Nunca devemos desistir dos nosso sonhos!
@@ -24,6 +24,7 @@
   <img align="center" alt="Helena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Helena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Helena-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
 </div>
   
   ###
