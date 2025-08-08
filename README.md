@@ -1,9 +1,8 @@
 ### Olá! Sou Helena 👋
 
 
-- 🌱 Estou cursando Sistema de Informação;
-- 🤔Procuro ajuda com dicas para projeto e estudos;
-- 📚Estudo em andamento em linguagem de programação JavaScript e Phyton e SQL;
+- 🎓 Bacharel em Sistema de Informação;
+- 📚Estudo em andamento em linguagem de programação Phyton e SQL;
 - 💡Ideias e dicas de estudos são bem-vindas;
 - 🤩 Foco em Analise de Dados;
 - 💬Pergunte-me sobre programação;
