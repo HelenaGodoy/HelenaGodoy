@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou a Helena.
 
-Sou Bacharel em Sistemas de Informação e uma entusiasta da tecnologia com foco total em **Análise de Dados**. 
+Sou Bacharel em Sistemas de Informação e uma entusiasta da tecnologia com foco em **Análise de Dados** e **Programação**. 
 
 Atualmente, estou aprofundando meus conhecimentos em `Python` e `SQL` para transformar dados brutos em insights valiosos e criar automações que simplificam processos. Adoro aprender, colaborar em projetos e estou sempre aberta a novas conexões e ideias.
 
